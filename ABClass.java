@@ -1,5 +1,5 @@
 public class ABClass{
 	void doSomething(){
-		System.out.println("not yet implemented");
+		System.out.println("SUSU KACANG");
 	}
 }
